@@ -1,0 +1,34 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 4,
+      "title": "My fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 5,
+      "title": "test",
+      "datetime": "March 15, 2022 2:43:01 PM",
+      "body": "dsadsa"
+    }
+  ]
+}
